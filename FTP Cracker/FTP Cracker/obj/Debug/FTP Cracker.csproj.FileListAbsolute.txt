@@ -1,0 +1,6 @@
+E:\Projeto\Novos Projetos5\FTP Cracker\FTP Cracker\bin\Debug\FTP Cracker.exe.config
+E:\Projeto\Novos Projetos5\FTP Cracker\FTP Cracker\bin\Debug\FTP Cracker.exe
+E:\Projeto\Novos Projetos5\FTP Cracker\FTP Cracker\bin\Debug\FTP Cracker.pdb
+E:\Projeto\Novos Projetos5\FTP Cracker\FTP Cracker\obj\Debug\FTP Cracker.csprojResolveAssemblyReference.cache
+E:\Projeto\Novos Projetos5\FTP Cracker\FTP Cracker\obj\Debug\FTP Cracker.exe
+E:\Projeto\Novos Projetos5\FTP Cracker\FTP Cracker\obj\Debug\FTP Cracker.pdb

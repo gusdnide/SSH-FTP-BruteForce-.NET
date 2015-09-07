@@ -1,0 +1,6 @@
+E:\Projeto\Novos Projetos5\sshell\sshell\bin\Release\sshell.exe.config
+E:\Projeto\Novos Projetos5\sshell\sshell\bin\Release\sshell.exe
+E:\Projeto\Novos Projetos5\sshell\sshell\bin\Release\sshell.pdb
+E:\Projeto\Novos Projetos5\sshell\sshell\obj\Release\sshell.csprojResolveAssemblyReference.cache
+E:\Projeto\Novos Projetos5\sshell\sshell\obj\Release\sshell.exe
+E:\Projeto\Novos Projetos5\sshell\sshell\obj\Release\sshell.pdb
