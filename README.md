@@ -1,8 +1,2 @@
 #SSH Brute Force
-----------
- : *gusdnide*
- : C#
-
-----------
-##TheMothership
-
+Simples testador de senhas para SSH & FTP
